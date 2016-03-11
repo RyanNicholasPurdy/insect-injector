@@ -1,5 +1,6 @@
 // Create your variable here, name it `insects`
-
+var insects = [
+  {
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
