@@ -5,6 +5,12 @@ var insects = [
     img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: ['6', '20'],
+    food: {
+      eatsInsects: true,
+      eatsDung: false,
+      eatsPlants: false
+    }
+  }
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
